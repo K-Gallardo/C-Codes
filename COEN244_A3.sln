@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COEN244_A3", "COEN244_A3\COEN244_A3.vcxproj", "{B225E4A9-268D-469C-A30F-A306C5471898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Debug|x64.ActiveCfg = Debug|x64
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Debug|x64.Build.0 = Debug|x64
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Debug|x86.ActiveCfg = Debug|Win32
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Debug|x86.Build.0 = Debug|Win32
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Release|x64.ActiveCfg = Release|x64
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Release|x64.Build.0 = Release|x64
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Release|x86.ActiveCfg = Release|Win32
+		{B225E4A9-268D-469C-A30F-A306C5471898}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B7F6247-E776-4EE9-996E-F2B67C326CAF}
+	EndGlobalSection
+EndGlobal
